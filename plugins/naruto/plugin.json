@@ -1,0 +1,20 @@
+{
+	"name": "Naruto",
+	"description": "A mode which makes videos like a conversation between Naruto and a cringe girl, the girl producing useless facts...",
+	"version": "v1.0.0-beta",
+	"format": [
+		{
+			"file": "naruto.jpeg",
+			"audio": "naruto.mp3"
+		},
+		{
+			"file": "cringe.jpeg",
+			"audio": null
+		},
+		{
+			"file": "thegun.jpeg",
+			"audio": "thegun.mp3"
+		}
+	],
+	"api": "https://uselessfacts.jsph.pl/api/v2/facts/random"
+}
